@@ -48,8 +48,9 @@ div {
    height:100%;}
 
 .comments {
+   font-size: 36px;
    line-height: 20px;
-   padding-top: 90px;
+   padding-top: 150px;
    padding-bottom: 30px;
 }
 
