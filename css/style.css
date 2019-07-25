@@ -1,0 +1,41 @@
+h1 {
+   font-size: 48px;}
+
+h2 {
+   font-size: 24px;}
+
+h3 {
+   font-size: 18px;}
+
+body {
+   color: #d7cdcc;
+   line-height: 40px;
+   background-color: #010101;}
+
+footer {
+   font-style: italic;
+}
+
+header {
+   line-height: 35px;}
+
+blockquote {
+      color:#b29e9b }
+
+div {
+   text-align: justify;}
+
+
+#background {
+   width: 55%;
+   position: absolute;
+   right: 0px;
+   top: 65px;
+   z-index: -1;}
+
+.stretch {
+   width:100%;
+   height:100%;}
+
+.comments {
+   line-height: 20px}
