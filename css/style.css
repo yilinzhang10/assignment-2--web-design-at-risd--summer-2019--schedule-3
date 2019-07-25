@@ -9,28 +9,38 @@ h3 {
 
 body {
    color: #d7cdcc;
-   line-height: 40px;
-   background-color: #010101;}
+   line-height: 35px;
+   background-color: #010101;
+   padding-left: 25px;
+   padding-right: 25px;
+}
 
 footer {
    font-style: italic;
 }
 
 header {
-   line-height: 35px;}
+   line-height: 35px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
 
 blockquote {
-      color:#b29e9b }
+   color: #b29e9b;
+   line-height: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
 
 div {
    text-align: justify;}
 
 
 #background {
-   width: 55%;
+   width: 900px;
    position: absolute;
    right: 0px;
-   top: 65px;
+   top: 105px;
    z-index: -1;}
 
 .stretch {
@@ -38,4 +48,11 @@ div {
    height:100%;}
 
 .comments {
-   line-height: 20px}
+   line-height: 20px;
+   padding-top: 90px;
+   padding-bottom: 30px;
+}
+
+.album {
+   padding-top: 30px;
+}
