@@ -7,14 +7,6 @@ body {
    background-size: cover;
 }
 
-.paragraph {
-   font: 16px / 1.2 Garamond, serif;
-   margin: 30px 200px;
-   color: rgb(0, 0, 0);
-   background-color: rgba(255, 255, 255, .7);
-   padding: 20px;
-}
-
 header {
    font: 140px / 1.2 'Stardos Stencil', serif;
    color: rgb(175, 0, 0);
