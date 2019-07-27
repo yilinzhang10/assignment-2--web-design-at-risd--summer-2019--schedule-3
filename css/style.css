@@ -2,7 +2,10 @@ body {
    background-color: red;
    background-image: url('https://www.rockhall.com/sites/default/files/styles/header_image_portrait/public/publicenemy_001.jpg?itok=OtnmC1sQ');
    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: 0 0;
    background-size: cover;
+}
 
 .paragraph {
    font: 16px / 1.2 Garamond, serif;
