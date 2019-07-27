@@ -1,14 +1,28 @@
+body {
+   background-color: red;
+   background-repeat: no-repeat;
+   background-size: cover;
+
 .paragraph {
-   margin: 40px;
+   font: 16px / 1.2 Garamond, serif;
+   margin: 30px 200px;
+   color: rgb(0, 0, 0);
+   background-color: rgba(255, 255, 255, .7);
+   padding: 20px;
 }
 
 header {
-   font-family: 'Stardos Stencil', serif;
-   font-size: 102px;
-   margin: auto;
+   font: 140px / 1.2 'Stardos Stencil', serif;
+   color: rgb(175, 0, 0);
+   text-align: center;
 }
 
 h2 {
-   font-family: 'Stardos Stencil', serif;
-   font-size: 30px;
+   font: 50px / 1 'Stardos Stencil', serif;
+   color: rgb(175, 0, 0);
+   text-align: center;
+}
+
+h3 {
+   text-align: center;
 }
