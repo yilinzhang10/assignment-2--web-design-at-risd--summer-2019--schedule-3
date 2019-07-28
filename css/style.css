@@ -48,8 +48,9 @@ h2 {
 
 .paragraph {
    font: 16px / 1.2 Courier, serif;
-   margin: 30px 200px;
+   margin: 30px 100px;
    color: rgb(0, 0, 0);
    background-color: rgba(255, 255, 255, .7);
+   width: 900px;
    padding: 20px;
 }
