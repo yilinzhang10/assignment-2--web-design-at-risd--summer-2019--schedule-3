@@ -15,6 +15,8 @@ header {
    height: 50px;
 }
 
+#public-enemy {
+   font: 70px / 1 'Stardos Stencil', serif;
 }
 
 .names-container {
