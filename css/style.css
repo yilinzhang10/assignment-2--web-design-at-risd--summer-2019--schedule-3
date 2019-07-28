@@ -22,6 +22,7 @@ header {
 #names-container {
    display: flex;
    justify-content: space-around;
+   padding: 80px 83px 0;
 }
 
 .name {
