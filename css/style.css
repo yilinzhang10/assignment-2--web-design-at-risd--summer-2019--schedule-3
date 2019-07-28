@@ -21,8 +21,8 @@ h2 {
 
 .songs-text {
    display: flex;
-   justify-content: space-between;
-   padding: 40px;
+   justify-content: center;
+   padding: 100px;
 }
 
 .songs-left {
