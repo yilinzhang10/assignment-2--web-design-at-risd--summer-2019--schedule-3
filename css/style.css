@@ -19,7 +19,7 @@ header {
    font: 70px / 1 'Stardos Stencil', serif;
 }
 
-.names-container {
+#names-container {
    display: flex;
    flex-direction: row;
    justify-content: space-around;
