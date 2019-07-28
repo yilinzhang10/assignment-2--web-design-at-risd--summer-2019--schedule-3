@@ -15,10 +15,6 @@ header {
    height: 50px;
 }
 
-h2 {
-   font: 50px / 1 'Stardos Stencil', serif;
-   color: rgb(175, 0, 0);
-   text-align: center;
 }
 
 .names-container {
