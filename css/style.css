@@ -34,12 +34,11 @@ h2 {
 }
 
 .songs-right {
-   font: 16px / 1.2 Courier, serif;
+   writing-mode: vertical-rl;
+   font: 16px Courier, serif;
    background-color: rgba(255, 255, 255, .7);
+   width: 20px;
    padding: 20px;
-   /* transform: rotate(-90deg); */
-}
-
 .names {
    font: 20px / 3 Courier, serif;
    text-align: center;
