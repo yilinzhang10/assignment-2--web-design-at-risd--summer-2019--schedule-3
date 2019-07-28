@@ -34,7 +34,7 @@ header {
 .songs-text {
    display: flex;
    justify-content: center;
-   padding: 100px;
+   padding: 10px 100px;
 }
 
 .songs-left {
