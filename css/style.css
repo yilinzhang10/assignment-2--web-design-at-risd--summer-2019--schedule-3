@@ -56,10 +56,9 @@ header {
    margin: 30px 20px;
 }
 
-.intro-paragraph-container {
+#intro-paragraph-container {
    display: flex;
    justify-content: center;
-   margin: 101px 100px;
 }
 
 .intro-paragraph {
