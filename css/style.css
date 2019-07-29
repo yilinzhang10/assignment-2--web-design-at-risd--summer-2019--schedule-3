@@ -79,6 +79,13 @@ header {
    padding: 10px 15px;
 }
 
+.first-character {
+   padding: 5px;
+   float: left;
+   position: relative;
+   margin: -5px 1.5px -2px -4px;
+   font-size: 80px;
+   line-height: 50px;
 }
 
 iframe,
