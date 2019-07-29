@@ -1,0 +1,53 @@
+h1 {
+   font-weight: 700;
+   font-size: 150px;
+   font-family: Helvetica, sans-serif;
+   color: transparent;
+   background: url('file:///Users/zealin10/Desktop/assignment-2--web-design-at-risd--summer-2019--schedule-3/img/cover1.jpg');
+   background-size:1450px 900px;
+   -webkit-background-clip: text;
+   background-clip: text;
+   background-attachment: fixed;
+}
+h2 {
+   font-weight: 700;
+   font-size: 150px;
+   font-family: Helvetica, sans-serif;
+}
+body {
+   background-color: rgb(0, 0, 0);
+}
+h3 {
+   font-weight: 700;
+   font-size: 20px;
+   font-family: Helvetica, sans-serif;
+   color: red;
+}
+
+p {
+   font-weight: 700;
+   font-size: 20px;
+   font-family: Helvetica, sans-serif;
+   color: white;
+   line-height:40px;
+}
+
+img{
+   opacity:0.4;
+   filter:alpha(opacity=40);
+   }
+   img:hover
+   {
+opacity:1.0;
+filter:alpha(opacity=100);
+}
+
+p{
+   opacity:0.4;
+   filter:alpha(opacity=40);
+   }
+   img:hover
+   {
+opacity:1.0;
+filter:alpha(opacity=100);
+}
