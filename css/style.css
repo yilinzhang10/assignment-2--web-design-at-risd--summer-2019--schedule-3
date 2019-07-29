@@ -1,0 +1,63 @@
+h1 {
+   font-size: 48px;}
+
+h2 {
+   font-size: 24px;}
+
+h3 {
+   font-size: 18px;}
+
+body {
+   color: #d7cdcc;
+   line-height: 35px;
+   background-color: #010101;
+   margin: 50px;
+}
+
+footer {
+   font-style: italic;
+}
+
+header {
+   line-height: 35px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+blockquote {
+   color: #b29e9b;
+   line-height: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+div {
+   text-align: justify;}
+
+
+#background {
+   width: 50%;
+   position: absolute;
+   right: 50px;
+   top: 150px;
+   z-index: -1;}
+
+.stretch {
+   width:100%;
+   height:100%;}
+
+.comments {
+   font-size: 36px;
+   line-height: 20px;
+   padding-top: 150px;
+   padding-bottom: 30px;
+}
+
+.album {
+   padding-top: 30px;
+}
+
+.topic {
+   font-size: 36px;
+   padding-bottom: 15px;
+   padding-top: 40px}
